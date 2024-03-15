@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         children: <Widget>[
                           Card(
                             elevation: 10,
-                            color: Colors.blue,
+                            color: Colors.cyan,
                             child: Padding(
                               padding: EdgeInsets.all(15.8),
                               child: Column(
